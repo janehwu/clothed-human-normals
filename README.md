@@ -1,4 +1,4 @@
-# Weakly-Supervised 3D Reconstruction of Clothed Humans via Normal Maps
+# Sparse-View 3D Reconstruction of Clothed Humans via Normal Maps
 This project implements a novel approach to weakly-supervised clothed human reconstruction via normal maps.
 
 https://arxiv.org/abs/2311.16042
